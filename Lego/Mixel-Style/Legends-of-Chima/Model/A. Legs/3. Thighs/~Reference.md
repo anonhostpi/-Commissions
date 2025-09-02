@@ -1,0 +1,7 @@
+![[Pasted image 20250824063127.jpg]]
+![[Pasted image 20250824063155.jpg]]![[Pasted image 20250824063200.jpg]]![[Pasted image 20250824063209.jpg]]
+d![[Pasted image 20250824063212.jpg]]
+![[Pasted image 20250824063223.png]]![[20NOV2024.jpg]]![[20NOV2024-02.jpg]]![[20NOV2024-03.jpg]]![[20NOV2024-04.jpg]]![[20NOV2024-05.jpg]]
+![[27OCT2024.jpg]]
+![[28OCT2024.jpg]]![[28OCT2024-02.jpg]]![[28OCT2024-03.jpg]]
+![[28OCT2024-04.jpg]]![[29OCT2024.jpg]]

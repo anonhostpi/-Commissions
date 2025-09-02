@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "65a84122edff6823",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1199e96108b554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad4f004f21b6acf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lego/Mixel-Style/Legends-of-Chima/References/Requested/20NOV2024-03.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "20NOV2024-03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06179d1b7930c56d",
+    "type": "split",
+    "children": [
+      {
+        "id": "785aa5a888c8aa1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a8d47da80bdb12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1dcde154ccf146d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae499e1e35d11278",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98e09760691acf18",
+    "type": "split",
+    "children": [
+      {
+        "id": "38a551df7eebe88a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c088eb5b2153fe4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lego/Mixel-Style/Legends-of-Chima/References/Requested/20NOV2024-03.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20NOV2024-03"
+            }
+          },
+          {
+            "id": "941b523303858606",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a7a49cc03b2b308e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2518c50ca8c73022",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lego/Mixel-Style/Legends-of-Chima/References/Requested/20NOV2024-03.jpg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20NOV2024-03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 676.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "56a8d47da80bdb12",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_8.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_7.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_6.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_5.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_4.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_3.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_2.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model.png",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model.io",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/DotNetZip-vh7vvvrd.tmp",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model.io.backup",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/DotNetZip-2tqyv9ud.tmp",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Grouped-Model.io",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/DotNetZip-wte33vxn.tmp",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/Grouped-Model.io.backup",
+    "Lego/Mixel-Style/Legends-of-Chima/References/Requested/20NOV2024-02.jpg",
+    "Lego/Mixel-Style/Legends-of-Chima/References/Requested/20NOV2024-03.jpg",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/DotNetZip-yjsyxrdq.tmp",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/B. Spine/2. Pelvis/Pelvis.io",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/B. Spine/2. Pelvis/DotNetZip-blnbnp78.tmp",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/D. Bust/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/D. Bust/~Parts.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/C. Arms/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/A. Legs/3. Thighs/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/A. Legs/2. Shins/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/A. Legs/1. Feet/b. Feet/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/A. Legs/1. Feet/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/A. Legs/1. Feet/a. Shoes/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/A. Legs/1. Feet/Feet Brief.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Model/B. Spine/Untitled.md",
+    "Lego/Mixel-Style/Legends-of-Chima/~Reference.md",
+    "Lego/Mixel-Style/Legends-of-Chima/Untitled.md",
+    "Welcome.md"
+  ]
+}
