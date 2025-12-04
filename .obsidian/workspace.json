@@ -18,8 +18,45 @@
               "icon": "lucide-image",
               "title": "20NOV2024-03"
             }
+          },
+          {
+            "id": "9a13aff0049d1cea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "ceed0f5a6d83e9a5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "831b10d90749d69d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,8 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56a8d47da80bdb12",
+  "active": "831b10d90749d69d",
   "lastOpenFiles": [
+    "Lego/Mixel-Style/Helluvaboss/a.io",
+    "Lego/Mixel-Style/Helluvaboss",
+    "Lego/Mixel-Style/New folder",
     "LICENSE",
     "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_8.png",
     "Lego/Mixel-Style/Legends-of-Chima/Model/Rendered-Model_7.png",
@@ -186,9 +227,6 @@
     "Lego/Mixel-Style/Legends-of-Chima/Model/Grouped-Model.io.backup",
     "Lego/Mixel-Style/Legends-of-Chima/References/Requested/20NOV2024-02.jpg",
     "Lego/Mixel-Style/Legends-of-Chima/References/Requested/20NOV2024-03.jpg",
-    "Lego/Mixel-Style/Legends-of-Chima/Model/DotNetZip-yjsyxrdq.tmp",
-    "Lego/Mixel-Style/Legends-of-Chima/Model/B. Spine/2. Pelvis/Pelvis.io",
-    "Lego/Mixel-Style/Legends-of-Chima/Model/B. Spine/2. Pelvis/DotNetZip-blnbnp78.tmp",
     "Lego/Mixel-Style/Legends-of-Chima/Model/D. Bust/~Reference.md",
     "Lego/Mixel-Style/Legends-of-Chima/Model/D. Bust/~Parts.md",
     "Lego/Mixel-Style/Legends-of-Chima/Model/C. Arms/~Reference.md",
